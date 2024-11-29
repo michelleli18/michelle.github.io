@@ -1,9 +1,16 @@
 ---
 layout: post
+title: Presented our work <b>Endless World Simulations for Generated Personas</b> at the Mellon Mays Undergraduate Fellowship Western Regional Conference. 
 date: 2024-11-08 07:59:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
-Presented our work <b>Endless World Simulations for Generated Personas</b> at the Mellon Mays Undergraduate Fellowship Western Regional Conference. Realistic, logical, and space-efficient endless map creation for generated agents.
 
-![alt text](../assets/img/mmuf2024.jpeg)
+Realistic, logical, and space-efficient endless map creation for generated agents.
+Keywords: Generative Agents, LLMs, Spatial Allocations, Realistic Map Creation, Endless Maps
+
+Abstract: We present Endless World Simulations, an algorithmic approach to efficiently allocate and design spaces unique to each user, enabling the creation of personalized "endless game maps". These spaces are represented within the spatial layout of a larger "world" (the parent map), where we ensure that all subspaces (the children) are placed without overlap and remain within the boundaries of their parent area. The focus is on creating realistic, logical, and space-efficient layouts for various types of places. Code and prompts at https://github.com/michelleli18/endless_worlds. Joint work with 3 other undergraduate students Jayden, Manny, and Duy. 
+
+Poster presentation at Mellon Mays Undergraduate Fellowship Conference 2024. 
+
+<img src="/Users/michelle/Documents/michelleli18.github.io/assets/img/mmuf2024.jpeg" alt="Michelle Li at MMUF Conference 2024" width="300" height="200">
