@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Caltech Computer Science + Information and Data Science. Class of 2025. <a href='https://www.cms.caltech.edu/'>Computing + Mathematical Sciences</a>.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Email: mli5@caltech.edu</p>
+    <p>Github: michelleli18</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! My name is Michelle and I'm a senior at Caltech studying Computer Science and Information and Data Science. At its core, I enjoy tackling unsolved problems (most likely due to data constraints) that require unique innovations to work through. I strive to find those related to helping others and our communities. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+At school, I am in the [Yue Lab](http://www.yisongyue.com/group.php) with [Prof. Yisong Yue](http://www.yisongyue.com/index.php) for neuroscience + AI projects and frequently collaborate with [Prof. Katie Bouman](http://users.cms.caltech.edu/~klbouman/)'s [Computational Cameras Lab](https://computationalcameras.org/) as well. Over the summers, I enjoy venturing out into industry to see what's up. Please see projects for a basic description of my work with the [Uber AI Michelangelo Team] and NVIDIA Autonomous Vehicle Safety Team.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my free time, I enjoy reading, photography, running, and playing a tradional instrument called the guzheng :D
