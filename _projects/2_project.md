@@ -1,14 +1,15 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
+title: EEG Imagined/Executed Decoding
+description: Decoding 
+img: assets/img/eeg.jpeg
+importance: 1
 category: work
-giscus_comments: true
+# giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
+Decoding data (we collected ourselves!) from EEG caps with 128 electrodes for imagined vs executed movements. This is the process of predicting which limb the patient was attempting to (imagined) or actually did (executed) move during an experiment. Previous experiments involved decoding with various techniques for <b>single-patient, multiple session</b> data. In the future, we aim to expand our model's understanding to cross patients and sessions.
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -78,4 +79,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 
-{% endraw %}
+{% endraw %} -->
