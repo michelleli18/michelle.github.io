@@ -16,7 +16,7 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-Caltech Computing + Mathematical Sciences.
+Caltech Computing + Mathematical Sciences. </br>
 Class of 2025.
 
 Hola! My name is Michelle and I'm a senior at Caltech studying Computer Science and Information and Data Science. I love tackling complex, unanswered problems (many with data constraints) that require unique innovations to work through. Specifically, I strive to find those related to helping others and our communities.  
